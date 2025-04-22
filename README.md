@@ -2,4 +2,4 @@
 
 # Sytem-Architecture-Design
 
-[text](c:/Users/ragha/Downloads/SystemDesignFlowexcelic.excalidraw)
+![alt text](SystemDesignFlow.png)
